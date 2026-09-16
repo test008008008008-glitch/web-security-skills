@@ -36,7 +36,7 @@
 ### 作为 AI Agent 技能
 
 ```bash
-git clone https://github.com/<你的用户名>/web-security-skills.git
+git clone https://github.com/test008008008008-glitch/web-security-skills.git
 cp -r web-security-skills/skills/* ~/.claude/skills/   # 按你的 Agent 技能路径调整
 ```
 
