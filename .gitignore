@@ -1,3 +1,4 @@
 .DS_Store
 __pycache__/
 *.pyc
+CVE-2026-18963-Exploit/
